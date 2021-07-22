@@ -59,6 +59,6 @@ public:
 int main()
 {
     Solution s;
-    string a = "cbbdbbd";
+    string a = "cbbbbd";
     std::cout << s.longestPalindrome(a);
 }
